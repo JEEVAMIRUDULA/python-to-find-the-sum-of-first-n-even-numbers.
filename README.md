@@ -1,0 +1,1 @@
+# python-to-find-the-sum-of-first-n-even-numbers.
